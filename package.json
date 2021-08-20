@@ -9,9 +9,20 @@
     "lint": "next lint"
   },
   "dependencies": {
+    "@types/axios": "^0.14.0",
+    "@types/gsap": "^3.0.0",
+    "@types/react-icons": "^3.0.0",
+    "@types/react-modal": "^3.12.1",
+    "@types/sass": "^1.16.1",
+    "axios": "^0.21.1",
+    "emailjs-com": "^3.2.0",
+    "gsap": "^3.7.1",
     "next": "11.1.0",
     "react": "17.0.2",
-    "react-dom": "17.0.2"
+    "react-dom": "17.0.2",
+    "react-icons": "^4.2.0",
+    "react-modal": "^3.14.3",
+    "sass": "^1.38.0"
   },
   "devDependencies": {
     "eslint": "7.32.0",
